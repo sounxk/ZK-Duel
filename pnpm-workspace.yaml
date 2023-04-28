@@ -1,0 +1,5 @@
+packages:
+  - "circuits"
+  - "web"
+  - "contracts"
+  - "front" 
